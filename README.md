@@ -7,7 +7,7 @@
 <br />
 <br />
 
- <img src="./assets/images/ghost-img.png">
+ <img src="./assets/images/ghost-img.png" width="250">
 
 <h2 align="center">Error 404 - Landing Page</h2>
 Error 404 is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and JavaScript. Also used Scroll Reveal JavaScript Library.
@@ -20,7 +20,7 @@ Error 404 is a fully responsive landing page website, responsive for all devices
 
 ### 👻 Responsive Error 404 Page
 
-- Responsive 404 Page Using HTML CSS & JavaScript
+- Responsive 404 Page Using HTML CSS, JavaScript and Scroll Reveal Js Library.
 - Contains CSS animations.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
