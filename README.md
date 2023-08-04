@@ -13,17 +13,18 @@
 Error 404 is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and JavaScript. Also used Scroll Reveal JavaScript Library.
 
 <a href="https://pranav-jadhav09.github.io/responsive-error-page/"><strong>➥ Live Demo</strong></a>
-
 </div>
 
 <br />
 
-### 👻 Responsive Error 404 Page
+### 👻 Error 404 Page
 
 - Responsive 404 Page Using HTML CSS, JavaScript and Scroll Reveal Js Library.
 - Contains CSS animations.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+
 
 ### Demo Screenshots
 
