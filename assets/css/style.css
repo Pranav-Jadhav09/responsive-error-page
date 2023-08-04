@@ -201,7 +201,7 @@ header {
 /* - For Small Devices - */
 @media screen and (max-width: 320px) {
   .home {
-    padding-top: 7rem;
+    padding-top: 5.5rem;
   }
 }
 
